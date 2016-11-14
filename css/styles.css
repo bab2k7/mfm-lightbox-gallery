@@ -1,0 +1,122 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 31-Mar-2016, 19:14:25
+    Author     : Billy
+*/
+
+.page-container{
+    padding:20px;
+}
+
+.tab-header{
+    padding:10px 10px;
+    border:1px solid #aaa;
+    display:inline-block;
+    cursor:pointer;
+}
+
+.tab-header.active{
+    background:#aaa;
+}
+
+.tab-data{
+    padding:10px;
+    display:none;
+    border:1px solid #aaa;
+}
+
+.tab-data.active{
+    display:block;
+}
+.input-wrapper{
+    margin-bottom:5px;
+}
+.input-wrapper label{
+    width:200px;
+    display:inline-block;
+}
+
+.tab-datas h2.col-head{
+    float:left;
+    width: 200px;
+    display:inline-block;
+}
+.headers{
+    width: 100%;
+    display: block;
+    height: 55px;
+}
+
+.gallery-item{
+	text-align:center;
+}
+
+.gallery-item img{
+	border:1px solid #ddd;
+	padding:10px;
+}
+
+
+.gallery-columns-1 .gallery-item{
+	width:100%;
+	float:left;
+	padding:15px;
+}
+
+.gallery-columns-2 .gallery-item{
+	width:50%;
+	float:left;
+	padding:15px;
+}
+
+.gallery-columns-3 .gallery-item{
+	width:33.333%;
+	float:left;
+	padding:15px;
+}
+
+
+.gallery-columns-4 .gallery-item{
+	width:25%;
+	float:left;
+	padding:15px;
+}
+
+
+.gallery-columns-5 .gallery-item{
+	width:20%;
+	float:left;
+	padding:15px;
+}
+
+
+.gallery-columns-6 .gallery-item{
+	width:16.666%;
+	float:left;
+	padding:15px;
+}
+
+
+.gallery-columns-7 .gallery-item{
+	width:14.285%;
+	float:left;
+	padding:15px;
+}
+
+
+.gallery-columns-8 .gallery-item{
+	width:12.5%;
+	float:left;
+	padding:15px;
+}
+
+
+.gallery-columns-9 .gallery-item{
+	width:11.1111%;
+	float:left;
+	padding:15px;
+}
