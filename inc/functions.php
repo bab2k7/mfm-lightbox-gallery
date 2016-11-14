@@ -52,7 +52,7 @@ function mfm_lightbox_head() {
     
     echo '<link rel="stylesheet" href="'.plugin_dir_url(dirname(__FILE__)).'css/featherlight.gallery.css" type="text/css" media="all" />';
     echo '<link rel="stylesheet" href="'.plugin_dir_url(dirname(__FILE__)).'css/featherlight.css" type="text/css" media="all" />';
-    echo '<link rel="stylesheet" href="'.plugin_dir_url(dirname(__FILE__)).'css/mfm-lightbox.css" type="text/css" media="all" />';
+    echo '<link rel="stylesheet" href="'.plugin_dir_url(dirname(__FILE__)).'css/styles.css" type="text/css" media="all" />'; 
     echo '<script src="'.plugin_dir_url(dirname(__FILE__)).'js/featherlight.js"></script>';
     echo '<script src="'.plugin_dir_url(dirname(__FILE__)).'js/featherlight.gallery.js"></script>';
     

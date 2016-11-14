@@ -8,6 +8,13 @@ and open the template in the editor.
     Author     : Billy
 */
 
+
+.gallery-item img{
+	border:1px solid #ddd;
+	padding:10px;
+}
+
+ 
 .page-container{
     padding:20px;
 }
@@ -53,11 +60,6 @@ and open the template in the editor.
 
 .gallery-item{
 	text-align:center;
-}
-
-.gallery-item img{
-	border:1px solid #ddd;
-	padding:10px;
 }
 
 
@@ -119,4 +121,9 @@ and open the template in the editor.
 	width:11.1111%;
 	float:left;
 	padding:15px;
+}
+
+.featherlight-content img.wp-smiley, .featherlight-content img.emoji{
+    width:50px!important;
+    height:50px!important;
 }
